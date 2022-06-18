@@ -1483,8 +1483,8 @@ footer.main .widget,footer.main .about-wrapper{margin-bottom: 0;float: left;widt
 .widget-instagram ul{margin: 0 !important; padding: 0; position: relative;list-style: none;}
 .widget-instagram .owl-nav{top: 50%;width: 100%;transform: translateY(-50%);-moz-transform: translateY(-50%);-webkit-transform: translateY(-50%);transform: translateY(-50%);}
 
-.widget-instagram .owl-carousel .owl-nav .owl-prev{float: left;background: url(/wp-content/themes/virtual-conference/images/left.png) no-repeat center;margin-left: 15px;}
-.widget-instagram .owl-carousel .owl-nav .owl-next{float: right;background: url(/wp-content/themes/virtual-conference/images/right.png) no-repeat center;margin-right: 15px;}
+.widget-instagram .owl-carousel .owl-nav .owl-prev{float: left;background: url(/IE/wp-content/themes/virtual-conference/images/left.png) no-repeat center;margin-left: 15px;}
+.widget-instagram .owl-carousel .owl-nav .owl-next{float: right;background: url(/IE/wp-content/themes/virtual-conference/images/right.png) no-repeat center;margin-right: 15px;}
 .widget-instagram .owl-carousel .owl-nav .owl-prev,.widget-instagram .owl-carousel .owl-nav .owl-next {
   background-color: #000000c4;
   background-size: 20px;
@@ -2286,7 +2286,7 @@ section[class*=banner-layout-] .caption .location{
 }
 .banner-image-holder .banner-wrapper{width: 100%;max-width: 1400px;margin: 0 auto;}
 .banner-layout-2 .item {
-  background-image: url(/wp-content/themes/virtual-conference/images/banner-overlay.png);
+  background-image: url(/IE/wp-content/themes/virtual-conference/images/banner-overlay.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
@@ -2662,7 +2662,7 @@ aside.widget {
 }
 .widget_search input.search-submit {
   border: none;
-  background: url(/wp-content/themes/virtual-conference/images/search.png) center no-repeat;
+  background: url(/IE/wp-content/themes/virtual-conference/images/search.png) center no-repeat;
   color: #fff;
   width: 22%;
   background-size: 18px;
@@ -3424,7 +3424,7 @@ label{
 }
 .widget_search input.search-submit {
    border: none;
-   background-image: url(/wp-content/themes/virtual-conference/images/search.png);
+   background-image: url(/IE/wp-content/themes/virtual-conference/images/search.png);
    background-repeat: no-repeat;
    background-position: center;
    width: 22%;
