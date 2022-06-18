@@ -9,8 +9,8 @@
 
 <channel>
 	<title>IE2023</title>
-	<atom:link href="https://mrinalsharma14.github.io/IE2023/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mrinalsharma14.github.io/IE2023</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>19th International Conference on Intelligent Environments (IEâ€™23)</description>
 	<lastBuildDate>Fri, 17 Jun 2022 12:57:51 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,40 +21,40 @@
 	<generator>https://wordpress.org/?v=6.0</generator>
 	<item>
 		<title>Important Dates</title>
-		<link>https://mrinalsharma14.github.io/IE2023/2022/06/17/important-dates/</link>
-					<comments>https://mrinalsharma14.github.io/IE2023/2022/06/17/important-dates/#respond</comments>
+		<link>/2022/06/17/important-dates/</link>
+					<comments>/2022/06/17/important-dates/#respond</comments>
 		
 		<dc:creator><![CDATA[ouweshs28]]></dc:creator>
 		<pubDate>Fri, 17 Jun 2022 12:57:51 +0000</pubDate>
 				<category><![CDATA[Important Dates]]></category>
-		<guid isPermaLink="false">https://mrinalsharma14.github.io/IE2023/?p=169</guid>
+		<guid isPermaLink="false">/?p=169</guid>
 
 					<description><![CDATA[Conference paper submission:&#160; 1 December 2022 Communication of results:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 20 February 2023 Camera ready versions&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 30 March 2023 Workshops paper submission&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 1 March 2023 Workshops results:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 5 April 2023 Workshops camera ready&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; 15 April 2023]]></description>
 										<content:encoded><![CDATA[
 <figure class="wp-block-table"><table><tbody><tr><td>Conference paper submission:&nbsp;</td><td>1 December 2022</td></tr><tr><td>Communication of results:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>20 February 2023</td></tr><tr><td>Camera ready versions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>30 March 2023</td></tr><tr><td>Workshops paper submission&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>1 March 2023</td></tr><tr><td>Workshops results:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>5 April 2023</td></tr><tr><td>Workshops camera ready&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>15 April 2023</td></tr></tbody></table></figure>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mrinalsharma14.github.io/IE2023/2022/06/17/important-dates/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/06/17/important-dates/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>https://mrinalsharma14.github.io/IE2023/2022/06/12/hello-world/</link>
-					<comments>https://mrinalsharma14.github.io/IE2023/2022/06/12/hello-world/#comments</comments>
+		<link>/2022/06/12/hello-world/</link>
+					<comments>/2022/06/12/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[ouweshs28]]></dc:creator>
 		<pubDate>Sun, 12 Jun 2022 15:53:32 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://mrinalsharma14.github.io/IE2023/?p=1</guid>
+		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://mrinalsharma14.github.io/IE2023/2022/06/12/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/06/12/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
